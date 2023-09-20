@@ -1,16 +1,5 @@
-# bwaspace
+# SLICING FURNITURE APP
 
-A new Flutter project.
+## A simple slicing furniture app in Flutter 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![FwVRsyt7bD7ZoD2XP6ClyA48wI0gsEOejJ219qjn](https://github.com/andreirawann/Furniture-App/assets/39233264/4e978438-4913-4f07-99da-0188925b6620)
